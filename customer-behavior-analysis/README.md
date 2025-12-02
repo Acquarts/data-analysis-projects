@@ -77,7 +77,6 @@ Built an interactive dashboard featuring:
 - **MySQL** — Structured data analysis
 - **Power BI** — Interactive visualization
 
-```
 
 
 
